@@ -11,7 +11,7 @@ Don't know how to code? Great! This project is for you! We welcome contributions
 * **This list is sorted by A-Z**
 * This list will **only focus on official YouTube channels** who have the rights to post the content online; **no unofficial uploaders are allowed.**
 * Feel free to send links to other official channels that post Movies, TV Shows, Cartoons, or Kids content. **Specify the language** if it's not an English channel.
-* Try to keep the links in the format: `https://www.youtube.com/@ChannelName`.
+* Try to keep the links in the format: `https://www.youtube.com/@ChannelName` or [https://www.youtube.com/@ChannelName](https://torbox.app/subscription?referral=d14ecebf-c144-4548-9762-501bd6cd62a3).
 * If you know of any YouTube channels that fit the description but don't have a description on this list, you can add one. You can also fix inaccurate descriptions or typos via a pull request.
 * For content suggestions, **do not add YouTubers** to the list unless they focus on restoring and/or uploading **public domain content** like old movies and documentaries.
 * **Do not add region-locked channels** that require a VPN to view their content. These are outside the scope of this list.
