@@ -651,6 +651,8 @@ This list will only focus on official YouTube channels who have the rights to po
 
 [**Food Network**](https://youtube.com/@foodnetwork) (Full episodes, clips, trailers from Food Network TV shows)
 
+[**Frontline by ITN**](https://www.youtube.com/@FrontlinebyITN) (Archive of old TV Transmissions, news, documentaries, movies...)
+
 [**Found Footage Fest**](https://www.youtube.com/@FoundFootageFest) (Rare Movies / TV / [Website](http://www.foundfootagefest.com/))
 
 [**FX Networks**](https://www.youtube.com/@FXNetworks) (Trailers and clips from FX shows)
@@ -682,8 +684,6 @@ This list will only focus on official YouTube channels who have the rights to po
 [**I Mostly Blame Myself**](https://youtube.com/@imostlyblamemyself) (Clips)
 
 [**ITV**](https://www.youtube.com/@itv) (Clips, trailers, behind-the-scenes, interviews, and exclusive content from ITV)
-
-[**ITN Archive**](https://www.youtube.com/@ITNArchive) (Archive of old TV Transmissions, news, documentaries, movies...)
 
 [**Jbuck's Retro Rewnd**](https://www.youtube.com/@jbuckretrorewind) (Retro Saturday morning cartoons and TV shows, with retro commercials)
 
