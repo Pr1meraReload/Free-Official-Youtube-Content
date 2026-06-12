@@ -988,7 +988,7 @@ Also a big thanks to [all the members of the FMHY Discord server](https://github
 
 [**House M.D.**](https://www.youtube.com/@HouseM.D.) (Mostly scenes from episodes)
 
-[**IKEA Heights**](https://www.youtube.com/@IKEAHeights) (Spoof on soap operas that was filmed inside an actual IKEA furniture store without permission.) 
+[**IKEA Heights**](https://www.youtube.com/@IKEAHeights) (Full Season) 
 
 [**Jail**](https://www.youtube.com/@JailTVShow) (Multiple languages, some clips)
 
