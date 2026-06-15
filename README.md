@@ -202,7 +202,7 @@ Also a big thanks to [all the members of the FMHY Discord server](https://github
 
 [**Mondo Media**](https://www.youtube.com/@MondoMedia) (Original animated series and shorts for mature audiences)
 
-[**NickToons**](https://www.youtube.com/@Nicktoons) (Clips, compilations, live eventsand full episodes)
+[**NickToons**](https://www.youtube.com/@Nicktoons) (Clips, compilations, and full episodes)
 
 [**Oddbods**](https://www.youtube.com/@oddbods) (Full episodes and compilations of the 3D animated comedy)
 
